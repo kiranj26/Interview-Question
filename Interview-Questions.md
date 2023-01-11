@@ -3,6 +3,8 @@
 # Continental AG (Vitesco Technologies) 
 ### Role : Embedded Software Development Intern Year Round
 - What is Static Variable? What is Local Static and Global Static Variable (Strorage Classes)
+- Can we define static variable within the header file?
+- Difference between #include<header.h> and #include"header.h"
 - What is Inline Function (Micro's and Inline Function)
 - Which one is more optamised x++ or x=x+1 (Memory Execution)
 - hat is NULL pointer and void pointer ?
