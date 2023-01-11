@@ -1,7 +1,7 @@
 # Interview Questions (Embedded System and Computer Engineering)
 
-# Continental AG (Vitesco Technologies) 
-### Role : Embedded Software Development Intern Year Round
+## Continental AG (Vitesco Technologies) 
+#### Role : Embedded Software Development Intern Year Round
 - What is Static Variable? What is Local Static and Global Static Variable (Strorage Classes)
 - Can we define static variable within the header file?
 - Difference between #include<header.h> and #include"header.h"
